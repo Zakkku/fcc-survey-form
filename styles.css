@@ -37,9 +37,6 @@ fieldset {
     border-bottom: 3px solid #3b3b4f;
 }
 
-label {
-    /*display: block;*/
-}
 
 #personal-info input,
 input[type="submit"],
